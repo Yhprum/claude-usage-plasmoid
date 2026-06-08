@@ -1,0 +1,17 @@
+{
+  "KPackageStructure": "Plasma/Applet",
+  "KPlugin": {
+    "Id": "com.yhprum.claudeusage",
+    "Name": "Claude Usage",
+    "Description": "Claude Code session and weekly usage monitor",
+    "Version": "1.0.0",
+    "Authors": [
+      { "Name": "Ryan" }
+    ],
+    "Category": "System Information",
+    "License": "MIT",
+    "EnabledByDefault": true,
+    "Icon": "utilities-system-monitor"
+  },
+  "X-Plasma-API-Minimum-Version": "6.0"
+}
